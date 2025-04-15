@@ -86,7 +86,7 @@ Here’s a roadmap of what I’m learning (and ticking off as I go):
 
 ## 🛠️ Projects I'm Building
 
-I haven't started any for now but am looking forward to creating more and real-world projects.
+I haven't started yet but I'm looking forward to creating more and real-world projects.
 
 ---
 
