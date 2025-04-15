@@ -4,7 +4,7 @@ My personal journey learning Python from beginner to advanced. 🚀
 # 🐍 Nzilani's Python Playground 🌱
 
 Hi there! 👋  
-Welcome to my Python learning repo — a space where I practice, play, and grow as a Pythonista. I'm learning everything from the ground up, and documenting my journey step by step. Feel free to explore, learn with me, or give feedback 💬
+Welcome to my Python learning repo — a space where I practice, play, and grow . I'm learning everything from the ground up, and documenting my journey step by step. Feel free to explore, learn with me, or give feedback 💬
 
 ---
 
