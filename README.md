@@ -24,7 +24,7 @@ I’m learning through videos, articles, and real code — no boring theory dump
 
 Here’s a roadmap of what I’m learning (and ticking off as I go):
 
-### 🐣 Beginner Stuff
+### 🐣 Basics for Beginners
 - [x] Installing Python + Setting up VS Code  
 - [x] Writing your first Python script (`print("Hello, world!")`)  
 - [x] Comments, code structure  
